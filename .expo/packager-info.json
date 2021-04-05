@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "expoServerNgrokUrl": "https://vt-awq.anonymous.restaurant.exp.direct",
+  "packagerNgrokUrl": "https://packager.vt-awq.anonymous.restaurant.exp.direct",
+  "ngrokPid": 32402,
+  "packagerPid": null,
+  "webpackServerPort": null
+}
